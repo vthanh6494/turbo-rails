@@ -1,9 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+In repo, I practice ruby on rails with creating a `quote editor app` with new Rails 7 application!
 
 * Tutorial: https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction
 * Demo: https://www.hotrails.dev/quotes
